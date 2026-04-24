@@ -14,7 +14,7 @@ website:
         text: "~/home"
       - text: "~/homework"
         menu:
-          - href: Homework/Homework 1.html
+          - href: Homework/Homework 1.qmd
             text: "HW 01"
           - href: Homework/Homework 2.qmd
             text: "HW 02"
@@ -48,5 +48,8 @@ format:
     code-tools: true
     code-copy: true
     highlight-style: dracula
+    
+execute:
+  python: venv/bin/python
 
 editor: visual
