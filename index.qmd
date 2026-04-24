@@ -6,6 +6,12 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+# Welcome To My Class Portfolio
+
+This website is a portfolio of my work for Math 3190. It contains a collection of homework assignments completed throughout the course, each focusing on different statistical concepts, mathematical techniques, and data analysis methods.
+
+The goal of this portfolio is to document my progress and demonstrate my understanding of key topics such as probability distributions, statistical modeling, and applied data analysis. Each homework assignment reflects both the theoretical concepts covered in class and their practical implementation using tools like R and Quarto.
+
+You can navigate through the site using the menu above to view individual assignments. Each page includes the full analysis, code, and results for that specific homework.
+
+This site serves as both a record of my work and a way to showcase my ability to apply mathematical and statistical methods to real problems.
