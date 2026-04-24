@@ -1,5 +1,5 @@
 ---
-title: "math3190_portifolio"
+title: "math3190_portfolio"
 ---
 
 This is a Quarto website.
